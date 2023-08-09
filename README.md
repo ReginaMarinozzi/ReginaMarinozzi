@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Regina Marinozzi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [ReactJS-Proyecto-Final](https://github.com/ReginaMarinozzi/proyecto-sk)
+- 🔭 I’m currently working on [Proyecto-SK](https://github.com/ReginaMarinozzi/proyecto-sk)
 
 - 📫 How to reach me **regina.marinozzi@gmail.com**
 
